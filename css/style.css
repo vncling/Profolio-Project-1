@@ -1,45 +1,43 @@
-@charset "UTF-8";
+@charset "UTF-8"; 
 /* CSS Document */
 
 body {
-	font-family: 'Lato', sans-serif;
-	color: #676858;
-	font-weight: 300;
-	transform: scale(1.1);
-    transform-origin: 10% 10%;
+	font-family: "Lato", sans-serif; 
+	color: #676858; 
+	font-weight: 300; 
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb; 
 }
 
-.text-thin{
-	font-weight:100;
+.text-thin {
+	font-weight: 100; 
 }
 
-.text-small{
-	font-size: 11px;
+.text-small {
+	font-size: 11px; 
 }
-.text-lower{
-	font-size: 40px;
-	font-weight:150;
+.text-lower {
+	font-size: 40px; 
+	font-weight: 200; 
 }
 
-.text-mid{
-	font-size: 36px;
+.text-mid {
+	font-size: 36px; 
 }
 
 .title-super {
-	font-size: 60px;
+	font-size: 60px; 
 }
 
 .title-logo {
-	margin-top: 20px;
+	margin-top: 20px; 
 }
 
 hr {
-    border: none;
-    height: 4px;
+    border: none; 
+    height: 4px; 
     /* Set the hr color */
     color: #747704; /* old IE */
     background-color: #747704; /* Modern Browsers */
